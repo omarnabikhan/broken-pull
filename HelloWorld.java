@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static String getGreeting() {
-        return "Hello";
+        return "Hello Huni";
     }
     public static String getPlace() {
         return "World";
